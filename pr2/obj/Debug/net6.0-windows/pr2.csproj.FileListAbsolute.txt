@@ -1,0 +1,56 @@
+C:\Users\vipal\source\repos\pr2\pr2\bin\Debug\net6.0-windows\pr2.exe
+C:\Users\vipal\source\repos\pr2\pr2\bin\Debug\net6.0-windows\pr2.deps.json
+C:\Users\vipal\source\repos\pr2\pr2\bin\Debug\net6.0-windows\pr2.runtimeconfig.json
+C:\Users\vipal\source\repos\pr2\pr2\bin\Debug\net6.0-windows\pr2.dll
+C:\Users\vipal\source\repos\pr2\pr2\bin\Debug\net6.0-windows\pr2.pdb
+C:\Users\vipal\source\repos\pr2\pr2\obj\Debug\net6.0-windows\pr2.csproj.AssemblyReference.cache
+C:\Users\vipal\source\repos\pr2\pr2\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\vipal\source\repos\pr2\pr2\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\vipal\source\repos\pr2\pr2\obj\Debug\net6.0-windows\pr2_MarkupCompile.cache
+C:\Users\vipal\source\repos\pr2\pr2\obj\Debug\net6.0-windows\pr2_MarkupCompile.lref
+C:\Users\vipal\source\repos\pr2\pr2\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\vipal\source\repos\pr2\pr2\obj\Debug\net6.0-windows\pr2.g.resources
+C:\Users\vipal\source\repos\pr2\pr2\obj\Debug\net6.0-windows\pr2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vipal\source\repos\pr2\pr2\obj\Debug\net6.0-windows\pr2.AssemblyInfoInputs.cache
+C:\Users\vipal\source\repos\pr2\pr2\obj\Debug\net6.0-windows\pr2.AssemblyInfo.cs
+C:\Users\vipal\source\repos\pr2\pr2\obj\Debug\net6.0-windows\pr2.csproj.CoreCompileInputs.cache
+C:\Users\vipal\source\repos\pr2\pr2\obj\Debug\net6.0-windows\pr2.dll
+C:\Users\vipal\source\repos\pr2\pr2\obj\Debug\net6.0-windows\refint\pr2.dll
+C:\Users\vipal\source\repos\pr2\pr2\obj\Debug\net6.0-windows\pr2.pdb
+C:\Users\vipal\source\repos\pr2\pr2\obj\Debug\net6.0-windows\pr2.genruntimeconfig.cache
+C:\Users\vipal\source\repos\pr2\pr2\obj\Debug\net6.0-windows\ref\pr2.dll
+C:\Users\vipal\source\repos\pr2\pr2\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+C:\Users\vipal\source\repos\pr2\pr2\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\vipal\source\repos\pr2\pr2\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\vipal\source\repos\pr2\pr2\obj\Debug\net6.0-windows\App.baml
+C:\Users\vipal\source\repos\pr2\pr2\obj\Debug\net6.0-windows\pr2.csproj.CopyComplete
+C:\Users\vipal\source\repos\pr2\pr2\bin\Debug\net6.0-windows\Microsoft.WindowsAPICodePack.dll
+C:\Users\vipal\source\repos\pr2\pr2\bin\Debug\net6.0-windows\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\Алексей\OneDrive\Рабочий стол\pr2\pr2\bin\Debug\net6.0-windows\pr2.exe
+C:\Users\Алексей\OneDrive\Рабочий стол\pr2\pr2\bin\Debug\net6.0-windows\pr2.deps.json
+C:\Users\Алексей\OneDrive\Рабочий стол\pr2\pr2\bin\Debug\net6.0-windows\pr2.runtimeconfig.json
+C:\Users\Алексей\OneDrive\Рабочий стол\pr2\pr2\bin\Debug\net6.0-windows\pr2.dll
+C:\Users\Алексей\OneDrive\Рабочий стол\pr2\pr2\bin\Debug\net6.0-windows\pr2.pdb
+C:\Users\Алексей\OneDrive\Рабочий стол\pr2\pr2\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+C:\Users\Алексей\OneDrive\Рабочий стол\pr2\pr2\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\Алексей\OneDrive\Рабочий стол\pr2\pr2\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\Алексей\OneDrive\Рабочий стол\pr2\pr2\bin\Debug\net6.0-windows\Microsoft.WindowsAPICodePack.dll
+C:\Users\Алексей\OneDrive\Рабочий стол\pr2\pr2\bin\Debug\net6.0-windows\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\Алексей\OneDrive\Рабочий стол\pr2\pr2\obj\Debug\net6.0-windows\pr2.csproj.AssemblyReference.cache
+C:\Users\Алексей\OneDrive\Рабочий стол\pr2\pr2\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Алексей\OneDrive\Рабочий стол\pr2\pr2\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Алексей\OneDrive\Рабочий стол\pr2\pr2\obj\Debug\net6.0-windows\pr2_MarkupCompile.cache
+C:\Users\Алексей\OneDrive\Рабочий стол\pr2\pr2\obj\Debug\net6.0-windows\pr2_MarkupCompile.lref
+C:\Users\Алексей\OneDrive\Рабочий стол\pr2\pr2\obj\Debug\net6.0-windows\App.baml
+C:\Users\Алексей\OneDrive\Рабочий стол\pr2\pr2\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Алексей\OneDrive\Рабочий стол\pr2\pr2\obj\Debug\net6.0-windows\pr2.g.resources
+C:\Users\Алексей\OneDrive\Рабочий стол\pr2\pr2\obj\Debug\net6.0-windows\pr2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алексей\OneDrive\Рабочий стол\pr2\pr2\obj\Debug\net6.0-windows\pr2.AssemblyInfoInputs.cache
+C:\Users\Алексей\OneDrive\Рабочий стол\pr2\pr2\obj\Debug\net6.0-windows\pr2.AssemblyInfo.cs
+C:\Users\Алексей\OneDrive\Рабочий стол\pr2\pr2\obj\Debug\net6.0-windows\pr2.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\OneDrive\Рабочий стол\pr2\pr2\obj\Debug\net6.0-windows\pr2.csproj.CopyComplete
+C:\Users\Алексей\OneDrive\Рабочий стол\pr2\pr2\obj\Debug\net6.0-windows\pr2.dll
+C:\Users\Алексей\OneDrive\Рабочий стол\pr2\pr2\obj\Debug\net6.0-windows\refint\pr2.dll
+C:\Users\Алексей\OneDrive\Рабочий стол\pr2\pr2\obj\Debug\net6.0-windows\pr2.pdb
+C:\Users\Алексей\OneDrive\Рабочий стол\pr2\pr2\obj\Debug\net6.0-windows\pr2.genruntimeconfig.cache
+C:\Users\Алексей\OneDrive\Рабочий стол\pr2\pr2\obj\Debug\net6.0-windows\ref\pr2.dll

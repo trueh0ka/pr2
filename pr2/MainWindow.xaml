@@ -1,0 +1,89 @@
+﻿<Window x:Class="pr2.MainWindow"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:pr2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="563" Width="950">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="104*"/>
+            <ColumnDefinition Width="212*"/>
+            <ColumnDefinition Width="68*"/>
+            <ColumnDefinition Width="73*"/>
+            <ColumnDefinition Width="71*"/>
+            <ColumnDefinition Width="68*"/>
+            <ColumnDefinition Width="64*"/>
+            <ColumnDefinition Width="256*"/>
+            <ColumnDefinition Width="34*"/>
+            <ColumnDefinition Width="0*"/>
+
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="349.001923076923"/>
+            <RowDefinition Height="56*"/>
+            <RowDefinition Height="29*"/>
+            <RowDefinition Height="113*"/>
+        </Grid.RowDefinitions>
+        <Button x:Name="btn_play"
+            Style="{StaticResource MaterialDesignIconButton}"
+            ToolTip="MaterialDesignIconButton"
+            Background="{DynamicResource MaterialDesignTextFieldBoxBackground}"
+            IsEnabled="{Binding DataContext.ControlsEnabled, RelativeSource={RelativeSource FindAncestor, AncestorType=Window}}" Margin="10,32,13,33" Click="btn_play_Click_1" Grid.Row="3" Grid.Column="4">
+            <materialDesign:PackIcon
+            Kind="Pause" />
+        </Button>
+        <Button x:Name="btn_back"
+            Style="{StaticResource MaterialDesignIconButton}"
+            ToolTip="MaterialDesignIconButton"
+            Background="{DynamicResource MaterialDesignTextFieldBoxBackground}"
+            IsEnabled="{Binding DataContext.ControlsEnabled, RelativeSource={RelativeSource FindAncestor, AncestorType=Window}}" Margin="15,32,10,33" Click="btn_back_Click" Grid.Row="3" Grid.Column="3">
+            <materialDesign:PackIcon
+            Kind="SkipBackward" />
+        </Button>
+        <Button x:Name="btn_next"
+            Style="{StaticResource MaterialDesignIconButton}"
+            ToolTip="MaterialDesignIconButton"
+            Background="{DynamicResource MaterialDesignTextFieldBoxBackground}"
+            IsEnabled="{Binding DataContext.ControlsEnabled, RelativeSource={RelativeSource FindAncestor, AncestorType=Window}}" Margin="10,32,10,33" Click="btn_next_Click" Cursor="Hand" Grid.Row="3" Grid.Column="5">
+            <materialDesign:PackIcon
+            Kind="SkipForward" VerticalAlignment="Center" />
+        </Button>
+        <Button x:Name="btn_repeat"
+            Style="{StaticResource MaterialDesignIconButton}"
+            ToolTip="MaterialDesignIconButton"
+            Background="{DynamicResource MaterialDesignTextFieldBoxBackground}"
+            IsEnabled="{Binding DataContext.ControlsEnabled, RelativeSource={RelativeSource FindAncestor, AncestorType=Window}}" Margin="8,32,8,33" Click="btn_repeat_Click" Grid.Row="3" Grid.Column="6">
+            <materialDesign:PackIcon
+            Kind="Repeat" VerticalAlignment="Center" />
+        </Button>
+        <Button x:Name="btn_random"
+            Style="{StaticResource MaterialDesignIconButton}"
+            ToolTip="MaterialDesignIconButton"
+            Background="{DynamicResource MaterialDesignTextFieldBoxBackground}"
+            IsEnabled="{Binding DataContext.ControlsEnabled, RelativeSource={RelativeSource FindAncestor, AncestorType=Window}}" Margin="10,32,10,33" Click="btn_random_Click" Grid.Row="3" Grid.Column="2">
+            <materialDesign:PackIcon
+            Kind="Gambling" VerticalAlignment="Center" />
+        </Button>
+        <Button x:Name="btn_folder"
+            Style="{StaticResource MaterialDesignIconButton}"
+            ToolTip="MaterialDesignIconButton"
+            Background="{DynamicResource MaterialDesignTextFieldBoxBackground}"
+            IsEnabled="{Binding DataContext.ControlsEnabled, RelativeSource={RelativeSource FindAncestor, AncestorType=Window}}" Margin="28,32,28,33" Click="btn_folder_Click_1" Grid.Row="3">
+            <materialDesign:PackIcon x:Name="btn_folder1"
+            Kind="FolderEdit" VerticalAlignment="Center" />
+        </Button>
+        <Slider x:Name="sld_second"
+            Minimum="0"
+            Maximum="50"
+            Value="35" Margin="10,8,10,21" ValueChanged="sld_second_ValueChanged" Grid.Row="1" Grid.ColumnSpan="9" />
+        <Slider x:Name="sld_gromkost"
+            Minimum="0"
+            Maximum="1"
+            Value="1" Margin="37,18,33,21" ValueChanged="sld_gromkost_ValueChanged" LargeChange="0.1" SmallChange="0.05" Grid.Row="3" Grid.Column="7" />
+        <ListBox x:Name="ListBox" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="10,10,10,185" SelectionChanged="ListBox_SelectionChanged" Grid.ColumnSpan="9"/>
+        <MediaElement x:Name="player" LoadedBehavior="Manual" MediaOpened="media_Opened" Margin="-1013,-5,191,-86" Grid.RowSpan="4"/>
+    </Grid>
+</Window>
